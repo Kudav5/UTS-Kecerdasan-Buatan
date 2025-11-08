@@ -3,9 +3,9 @@
 Ini adalah proyek klasifikasi teks yang bertujuan mendeteksi ujaran kebencian (*hate speech*) dan bahasa ofensif dalam data teks (tweet). Proyek ini dibuat untuk UTS Kecerdasan Buatan
 
 ## Kelompok 4
-- Kumara Davin Valerian
-- Faiz Dzaki Ramadhani
-- Akram Farrasanto
-- Sahrul Ridwansyah
+- Kumara Davin Valerian (312210192)
+- Faiz Dzaki Ramadhani (312210223)
+- Akram Farrasanto (312210245)
+- Sahrul Ridwansyah (312210063)
 
 masih dikembangkan
