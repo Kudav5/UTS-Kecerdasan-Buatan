@@ -7,5 +7,3 @@ Ini adalah proyek klasifikasi teks yang bertujuan mendeteksi ujaran kebencian (*
 - Faiz Dzaki Ramadhani (312210223)
 - Akram Farrasanto (312210245)
 - Sahrul Ridwansyah (312210063)
-
-masih dikembangkan
